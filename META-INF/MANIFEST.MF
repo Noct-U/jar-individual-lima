@@ -1,4 +1,4 @@
 Manifest-Version: 1.0
-Main-Class: java.src.main.java.App
-Class-Path: java.src.main.java.App
+Main-Class: java.App
+Class-Path: java.App
 
