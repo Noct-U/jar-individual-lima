@@ -1,4 +1,4 @@
 Manifest-Version: 1.0
 Main-Class: java.App
-Class-Path: java.App
+Class-Path: C:\Users\Aluno\Documents\jar-individual-lima\java\src\main\java
 
