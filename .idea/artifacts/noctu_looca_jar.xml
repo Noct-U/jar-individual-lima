@@ -2,10 +2,10 @@
   <artifact type="jar" name="noctu-looca:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/noctu_looca_jar</output-path>
     <root id="archive" name="noctu-looca.jar">
-      <element id="directory" name="META-INF">
-        <element id="file-copy" path="$USER_HOME$/Pictures/jar-individual-lima/META-INF/MANIFEST.MF" />
-      </element>
       <element id="library" level="project" name="noctu-looca" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
     </root>
   </artifact>
 </component>
