@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="noctu-looca">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/java/out/artifacts/noctu_looca_jar/noctu-looca.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
